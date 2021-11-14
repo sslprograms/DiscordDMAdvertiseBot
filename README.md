@@ -17,4 +17,5 @@ https://captchagrinder.com
 
 Thank you!
 
-#rise#2636
+# rise#2636
+*thats my discord*
